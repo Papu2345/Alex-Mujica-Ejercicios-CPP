@@ -1,5 +1,5 @@
 #include <iostream>
-#include <string> // Necesario para usar texto (strings)
+#include <string> 
 
 using namespace std;
 
@@ -7,7 +7,7 @@ int main() {
     string nombre;
 
     cout << "Ingresa tu nombre: ";
-    cin >> nombre; // Aquí el programa espera a que escribas
+    cin >> nombre; 
 
     cout << "¡Bienvenida " << nombre << " a la programacion de videojuegos!" << endl;
 
