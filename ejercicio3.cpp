@@ -2,8 +2,8 @@
 using namespace std;
 
 int main() {
-    float velocidad = 2.5f;   // unidades por frame
-    float fps = 60.0f;        // cuadros por segundo
+    float velocidad = 2.5f;   
+    float fps = 60.0f;        
     float distancia;
 
     distancia = velocidad * fps;
